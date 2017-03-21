@@ -1,0 +1,316 @@
+/*****************************************************************************************/
+neo abc network trainer original iter=100/1000
+/*****************************************************************************************/
+iter=1 ObjVal=0.192216
+iter=2 ObjVal=0.191454
+iter=3 ObjVal=0.188304
+iter=4 ObjVal=0.183762
+iter=5 ObjVal=0.183413
+iter=6 ObjVal=0.183317
+iter=7 ObjVal=0.179471
+iter=8 ObjVal=0.173492
+iter=9 ObjVal=0.173492
+iter=10 ObjVal=0.173492
+iter=11 ObjVal=0.173006
+iter=12 ObjVal=0.173006
+iter=13 ObjVal=0.172615
+iter=14 ObjVal=0.172179
+iter=15 ObjVal=0.170146
+iter=16 ObjVal=0.167915
+iter=17 ObjVal=0.167423
+iter=31 ObjVal=0.161222
+iter=32 ObjVal=0.161164
+iter=33 ObjVal=0.160894
+iter=34 ObjVal=0.159404
+iter=35 ObjVal=0.158161
+iter=36 ObjVal=0.158161
+iter=37 ObjVal=0.158161
+iter=38 ObjVal=0.154377
+iter=39 ObjVal=0.15304
+iter=40 ObjVal=0.15304
+iter=41 ObjVal=0.15304
+iter=42 ObjVal=0.15304
+iter=43 ObjVal=0.150028
+iter=44 ObjVal=0.150028
+iter=45 ObjVal=0.149813
+iter=46 ObjVal=0.149813
+iter=47 ObjVal=0.149813
+iter=63 ObjVal=0.14069
+iter=64 ObjVal=0.140631
+iter=65 ObjVal=0.139799
+iter=66 ObjVal=0.139788
+iter=67 ObjVal=0.139729
+iter=68 ObjVal=0.139569
+iter=97 ObjVal=0.136112
+iter=98 ObjVal=0.136112
+iter=99 ObjVal=0.136111
+iter=100 ObjVal=0.136111
+################################################################
+iter=1 ObjVal=0.186477
+iter=2 ObjVal=0.184838
+iter=3 ObjVal=0.183496
+iter=4 ObjVal=0.183376
+iter=5 ObjVal=0.180473
+iter=6 ObjVal=0.180098
+iter=7 ObjVal=0.180098
+iter=8 ObjVal=0.180092
+iter=9 ObjVal=0.17928
+iter=10 ObjVal=0.17928
+iter=11 ObjVal=0.179115
+iter=12 ObjVal=0.179108
+iter=13 ObjVal=0.179108
+iter=14 ObjVal=0.179108
+iter=15 ObjVal=0.172054
+iter=16 ObjVal=0.164591
+iter=17 ObjVal=0.16362
+iter=18 ObjVal=0.16362
+iter=19 ObjVal=0.162699
+iter=20 ObjVal=0.162408
+iter=21 ObjVal=0.158859
+iter=22 ObjVal=0.150105
+iter=23 ObjVal=0.150105
+iter=24 ObjVal=0.150105
+iter=25 ObjVal=0.150088
+iter=26 ObjVal=0.149904
+iter=27 ObjVal=0.149887
+iter=28 ObjVal=0.149879
+iter=59 ObjVal=0.140085
+iter=60 ObjVal=0.140035
+iter=61 ObjVal=0.139909
+iter=62 ObjVal=0.139906
+iter=63 ObjVal=0.139827
+iter=996 ObjVal=0.13072
+iter=997 ObjVal=0.13072
+iter=998 ObjVal=0.130715
+iter=999 ObjVal=0.130715
+iter=1000 ObjVal=0.130715
+
+/*****************************************************************************************/
+neo abc network trainer modified iter=100 limit=15
+/*****************************************************************************************/
+iter=1 ObjVal=0.190466
+iter=2 ObjVal=0.186971
+iter=3 ObjVal=0.183928
+iter=4 ObjVal=0.177195
+iter=5 ObjVal=0.176934
+iter=6 ObjVal=0.175298
+iter=7 ObjVal=0.175298
+iter=8 ObjVal=0.175298
+iter=9 ObjVal=0.175298
+iter=10 ObjVal=0.172892
+iter=11 ObjVal=0.172631
+iter=12 ObjVal=0.172554
+iter=13 ObjVal=0.172554
+iter=14 ObjVal=0.167046
+iter=15 ObjVal=0.16404
+iter=16 ObjVal=0.160942
+iter=17 ObjVal=0.16093
+iter=18 ObjVal=0.16093
+iter=19 ObjVal=0.16093
+iter=20 ObjVal=0.160665
+iter=21 ObjVal=0.157616
+iter=22 ObjVal=0.157614
+iter=23 ObjVal=0.152604
+iter=24 ObjVal=0.152595
+iter=25 ObjVal=0.152595
+iter=26 ObjVal=0.152103
+iter=27 ObjVal=0.151436
+iter=28 ObjVal=0.151243
+iter=29 ObjVal=0.151243
+iter=30 ObjVal=0.150688
+iter=31 ObjVal=0.150122
+iter=32 ObjVal=0.149011
+iter=33 ObjVal=0.148937
+iter=34 ObjVal=0.148591
+iter=54 ObjVal=0.142495
+iter=55 ObjVal=0.142495
+iter=56 ObjVal=0.139379
+iter=57 ObjVal=0.139274
+iter=58 ObjVal=0.139274
+iter=99 ObjVal=0.134131
+iter=100 ObjVal=0.13413
+/*****************************************************************************************/
+neo abc network trainer modified iter=100 limit=10
+/*****************************************************************************************/
+iter=1 ObjVal=0.151117
+iter=2 ObjVal=0.150768
+iter=3 ObjVal=0.15025
+iter=4 ObjVal=0.150156
+iter=5 ObjVal=0.149664
+iter=6 ObjVal=0.149053
+iter=7 ObjVal=0.148478
+iter=46 ObjVal=0.142551
+iter=47 ObjVal=0.141677
+iter=48 ObjVal=0.140707
+iter=49 ObjVal=0.138575
+iter=50 ObjVal=0.138516
+iter=51 ObjVal=0.138079
+iter=98 ObjVal=0.134033
+iter=99 ObjVal=0.134031
+iter=100 ObjVal=0.134023
+
+############################################################
+USE ABC? Y/N: 1/0
+1
+Input File: winequality5.csv
+Read Complete: 6000 Patterns Loaded
+data.size= 6000, gSize=1200, vSize= 1200
+selected use ABC, loadWeights And Bias
+m= 80, n= 13
+
+neuralNetwork.cpp: Neuron weights loaded successfuly
+created FUCKIN network!!!!!!!!!!!!!!!!!!!!
+TRAINING FUCKIN START!!!!!!!!!!!!!!!!!!!!
+
+ Neural Network Training Starting:
+==========================================================================
+ LR: 0.01, Momentum: 0.9, Max Epochs : 200
+ 5 Input Neurons, 10 Hidden Neurons, 3 Output Neurons
+==========================================================================
+
+Epoch :0 TSet Acc:68.3611%, MSE: 0.119898 GSet Acc:75.6667%, MSE: 0.127512
+Epoch :1 TSet Acc:73.5556%, MSE: 0.119484 GSet Acc:75.6667%, MSE: 0.127336
+Epoch :2 TSet Acc:74.6667%, MSE: 0.119383 GSet Acc:75.6667%, MSE: 0.127238
+Epoch :3 TSet Acc:75.0833%, MSE: 0.119328 GSet Acc:75.6667%, MSE: 0.127166
+Epoch :8 TSet Acc:76.2222%, MSE: 0.119173 GSet Acc:75.6667%, MSE: 0.126844
+Epoch :57 TSet Acc:75.9444%, MSE: 0.118879 GSet Acc:75.6667%, MSE: 0.126685
+Epoch :87 TSet Acc:75.3333%, MSE: 0.118788 GSet Acc:75%, MSE: 0.126792
+Epoch :96 TSet Acc:75%, MSE: 0.118759 GSet Acc:74.9167%, MSE: 0.126814
+Epoch :178 TSet Acc:74%, MSE: 0.118501 GSet Acc:74.4167%, MSE: 0.126751
+
+Training Complete!!! - > Elapsed Epochs: 200
+ Validation Set Accuracy: 75.5833
+ Validation Set MSE: 0.123916
+
+
+Neuron weights saved to 'weights.csv'
+
+
+-- END OF PROGRAM --
+
+####################################################################
+USE ABC? Y/N: 1/0
+1
+Input File: winequality5.csv
+Read Complete: 6000 Patterns Loaded
+data.size= 6000, gSize=1200, vSize= 1200
+selected use ABC, loadWeights And Bias
+m= 80, n= 13
+
+neuralNetwork.cpp: Neuron weights loaded successfuly
+created FUCKIN network!!!!!!!!!!!!!!!!!!!!
+TRAINING FUCKIN START!!!!!!!!!!!!!!!!!!!!
+
+ Neural Network Training Starting:
+==========================================================================
+ LR: 0.01, Momentum: 0.9, Max Epochs : 200
+ 5 Input Neurons, 10 Hidden Neurons, 3 Output Neurons
+==========================================================================
+
+Epoch :0 TSet Acc:64.8889%, MSE: 0.12141 GSet Acc:68%, MSE: 0.120953
+Epoch :1 TSet Acc:69.3611%, MSE: 0.120974 GSet Acc:73.5833%, MSE: 0.120834
+Epoch :2 TSet Acc:71.1389%, MSE: 0.12089 GSet Acc:75%, MSE: 0.120783
+Epoch :3 TSet Acc:72.1389%, MSE: 0.120842 GSet Acc:75.9167%, MSE: 0.12075
+Epoch :4 TSet Acc:72.75%, MSE: 0.120805 GSet Acc:76.25%, MSE: 0.120724
+Epoch :5 TSet Acc:73.0278%, MSE: 0.120773 GSet Acc:76.4167%, MSE: 0.120699
+Epoch :7 TSet Acc:73.5%, MSE: 0.12072 GSet Acc:77.25%, MSE: 0.120662
+Epoch :14 TSet Acc:74.0556%, MSE: 0.120649 GSet Acc:77.4167%, MSE: 0.120635
+Epoch :57 TSet Acc:74.2778%, MSE: 0.12055 GSet Acc:77%, MSE: 0.120706
+Epoch :114 TSet Acc:74.4722%, MSE: 0.120363 GSet Acc:76%, MSE: 0.120654
+Epoch :116 TSet Acc:74.4444%, MSE: 0.120359 GSet Acc:76.0833%, MSE: 0.120654
+Epoch :149 TSet Acc:74.0833%, MSE: 0.120295 GSet Acc:76%, MSE: 0.120687
+Epoch :152 TSet Acc:74%, MSE: 0.12029 GSet Acc:75.9167%, MSE: 0.120692
+
+Training Complete!!! - > Elapsed Epochs: 200
+ Validation Set Accuracy: 72.9167
+ Validation Set MSE: 0.124242
+
+
+Neuron weights saved to 'weights.csv'
+
+
+-- END OF PROGRAM --
+
+##################################################################
+USE ABC? Y/N: 1/0
+0
+Input File: winequality5.csv
+Read Complete: 6000 Patterns Loaded
+data.size= 6000, gSize=1200, vSize= 1200
+selected no ABC, initializeWeights
+created FUCKIN network!!!!!!!!!!!!!!!!!!!!
+TRAINING FUCKIN START!!!!!!!!!!!!!!!!!!!!
+
+ Neural Network Training Starting:
+==========================================================================
+ LR: 0.01, Momentum: 0.9, Max Epochs : 200
+ 5 Input Neurons, 10 Hidden Neurons, 3 Output Neurons
+==========================================================================
+
+Epoch :0 TSet Acc:69.5556%, MSE: 0.122806 GSet Acc:72.25%, MSE: 0.118261
+Epoch :1 TSet Acc:71.6389%, MSE: 0.121713 GSet Acc:72.0833%, MSE: 0.118206
+Epoch :3 TSet Acc:71.3889%, MSE: 0.121582 GSet Acc:73.0833%, MSE: 0.11815
+Epoch :6 TSet Acc:71.9167%, MSE: 0.121475 GSet Acc:74.0833%, MSE: 0.118114
+Epoch :7 TSet Acc:72.1111%, MSE: 0.121451 GSet Acc:74.25%, MSE: 0.118109
+Epoch :18 TSet Acc:72.8611%, MSE: 0.121321 GSet Acc:75.4167%, MSE: 0.118097
+Epoch :22 TSet Acc:73.0833%, MSE: 0.121293 GSet Acc:75.6667%, MSE: 0.11809
+Epoch :32 TSet Acc:73.3889%, MSE: 0.121236 GSet Acc:76.0833%, MSE: 0.11806
+Epoch :58 TSet Acc:72.9722%, MSE: 0.121153 GSet Acc:76.3333%, MSE: 0.11798
+Epoch :74 TSet Acc:72.5%, MSE: 0.121123 GSet Acc:76%, MSE: 0.117967
+Epoch :84 TSet Acc:71.9444%, MSE: 0.121107 GSet Acc:75.5833%, MSE: 0.117962
+Epoch :96 TSet Acc:70.9444%, MSE: 0.121081 GSet Acc:75.1667%, MSE: 0.117963
+Epoch :109 TSet Acc:71.0278%, MSE: 0.121026 GSet Acc:75.8333%, MSE: 0.117959
+Epoch :126 TSet Acc:72.0278%, MSE: 0.120981 GSet Acc:75.75%, MSE: 0.117902
+Epoch :137 TSet Acc:72%, MSE: 0.120964 GSet Acc:75.6667%, MSE: 0.117877
+Epoch :177 TSet Acc:71.5833%, MSE: 0.120918 GSet Acc:75%, MSE: 0.117841
+
+Training Complete!!! - > Elapsed Epochs: 200
+ Validation Set Accuracy: 73.0833
+ Validation Set MSE: 0.125538
+
+
+Neuron weights saved to 'weights.csv'
+
+
+-- END OF PROGRAM --
+###################################################################
+USE ABC? Y/N: 1/0
+0
+Input File: winequality5.csv
+Read Complete: 6000 Patterns Loaded
+data.size= 6000, gSize=1200, vSize= 1200
+selected no ABC, initializeWeights
+created FUCKIN network!!!!!!!!!!!!!!!!!!!!
+TRAINING FUCKIN START!!!!!!!!!!!!!!!!!!!!
+
+ Neural Network Training Starting:
+==========================================================================
+ LR: 0.01, Momentum: 0.9, Max Epochs : 200
+ 5 Input Neurons, 10 Hidden Neurons, 3 Output Neurons
+==========================================================================
+
+Epoch :0 TSet Acc:67.1389%, MSE: 0.124612 GSet Acc:75.1667%, MSE: 0.12491
+Epoch :1 TSet Acc:72.0833%, MSE: 0.123302 GSet Acc:75.1667%, MSE: 0.124907
+Epoch :4 TSet Acc:73.1389%, MSE: 0.123233 GSet Acc:75.1667%, MSE: 0.124908
+Epoch :11 TSet Acc:74.0556%, MSE: 0.123162 GSet Acc:75.1667%, MSE: 0.124941
+Epoch :12 TSet Acc:74%, MSE: 0.123157 GSet Acc:75.1667%, MSE: 0.124947
+Epoch :56 TSet Acc:73.2222%, MSE: 0.123069 GSet Acc:74.9167%, MSE: 0.125054
+Epoch :85 TSet Acc:73.3056%, MSE: 0.122937 GSet Acc:74%, MSE: 0.124948
+Epoch :103 TSet Acc:73.3611%, MSE: 0.122864 GSet Acc:74.0833%, MSE: 0.124942
+Epoch :114 TSet Acc:73.5278%, MSE: 0.122815 GSet Acc:74%, MSE: 0.124983
+Epoch :119 TSet Acc:73.5556%, MSE: 0.122792 GSet Acc:74.0833%, MSE: 0.125008
+Epoch :129 TSet Acc:73.8056%, MSE: 0.122748 GSet Acc:74%, MSE: 0.125059
+Epoch :159 TSet Acc:74.0278%, MSE: 0.122633 GSet Acc:73.8333%, MSE: 0.125187
+Epoch :160 TSet Acc:74%, MSE: 0.122629 GSet Acc:73.8333%, MSE: 0.125191
+Epoch :173 TSet Acc:74.0278%, MSE: 0.122587 GSet Acc:73.9167%, MSE: 0.125236
+Epoch :181 TSet Acc:73.9722%, MSE: 0.122564 GSet Acc:73.8333%, MSE: 0.125262
+
+Training Complete!!! - > Elapsed Epochs: 200
+ Validation Set Accuracy: 76.1667
+ Validation Set MSE: 0.112542
+
+
+Neuron weights saved to 'weights.csv'
+
+
+-- END OF PROGRAM --
